@@ -54,3 +54,7 @@ buck-out/
 
 # Bundle artifact
 *.jsbundle
+
+googleMapsApi.json
+
+android/app/src/main/AndroidManifest.xml
